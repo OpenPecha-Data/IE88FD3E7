@@ -1,0 +1,25 @@
+id: IE88FD3E7
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T22:16:28.795842'
+last_modified: '2022-05-30T22:16:28.795853'
+parser: null
+source_metadata:
+  title: Khenpo Nüden Series
+  language: en
+  description: 'Texts by the learned Khenpo Nüden Khyentse Lodrö (nus ldan mkhyen
+    brtse''i blo gros, 19th–20th C.) of Kathok (kaḥ thog):'
+  volume:
+    f16B9:
+      title: 'Gateway to Learning: Four Great Logical Arguments of the Middle Way'
+      base_file: f16B9.txt
+      order: 1
+      parent: Buddhist Philosophy
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
